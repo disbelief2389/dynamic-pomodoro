@@ -1,5 +1,5 @@
 # dynamicPomodoro
-## A 1:1 Pomodoro Timer
+A 1:1 Pomodoro Timer
 
 ## Description
 
